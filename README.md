@@ -10,3 +10,4 @@ Breadboard for prototyping
 Software:
 Arduino IDE
 Wokwi Simulator Online
+dht.h library for the DTH11 sensor
